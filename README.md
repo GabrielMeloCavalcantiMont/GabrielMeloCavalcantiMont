@@ -9,7 +9,7 @@
 <div style="display: inline_block" align="center">
   
   [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GabrielMeloCavalcantiMont&custom_title=Gabriel%20Melo&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=GabrielMeloCavalcantiMont&custom_title=Gabriel%20Melo&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&include_all_commits=true&theme=codeSTACKr) 
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GabrielMeloCavalcantiMont&layout=donut-vertical&langs_count=4&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api/top-langs?username=GabrielMeloCavalcantiMont&layout=donut-vertical&langs_count=4&theme=codeSTACKr)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GabrielMeloCavalcantiMont&layout=donut-vertical&langs_count=4&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api/top-langs?username=GabrielMeloCavalcantiMont&layout=donut-vertical&langs_count=10&theme=codeSTACKr)
 </div>
 
 ##
