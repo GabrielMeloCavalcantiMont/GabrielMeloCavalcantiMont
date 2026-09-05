@@ -55,6 +55,9 @@
 - [📋 Atividade de Formulários - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-Formulario-FATEC)
 - [💻 Atividade de SQL - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-SQL-FATEC)
 - [🧑‍💻 Atividade de PHP - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-PHP-)
+- [🛜 Atividade de JavaScript - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-JavaScript-FATEC)
+- [💻 Atividade de Table SQL - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-Tables-SQL)
+- [📖 Atividade de Formulário com CSS - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-Formul-rio-com-CSS)
           
           
           
