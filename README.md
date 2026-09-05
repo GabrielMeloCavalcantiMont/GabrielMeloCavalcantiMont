@@ -53,6 +53,7 @@
 - [🌐 Projeto Website - Affectum](https://github.com/GabrielMeloCavalcantiMont/Projeto-Website---Affectum)
 - [📖 Atividade de Bootstrap - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-Bootstrap-FATEC)
 - [📖 Atividade de Formulários - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-Formulario-FATEC)
+- [📖 Atividade de SQL - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-SQL-FATEC)
           
           
           
