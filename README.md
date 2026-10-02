@@ -59,6 +59,7 @@
 - [🛜 Atividade de JavaScript - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-JavaScript-FATEC)
 - [💻 Atividade de Table SQL - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-Tables-SQL)
 - [📖 Atividade de Formulário com CSS - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-Formul-rio-com-CSS)
+- [🧑‍💻 Atividade de API em PHP - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-API-PokeAPI-FATEC)
           
           
           
