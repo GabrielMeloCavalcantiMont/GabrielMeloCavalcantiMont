@@ -39,7 +39,7 @@
 
 ##
 
-  Sou Gabriel Melo Cavalcanti Monteiro e tenho 18 anos, sou novo na área de desenvolvimento de softwares, porém sou empenhado em aprimorar e superar minhas habilidades. 
+  Sou Gabriel Melo Cavalcanti Monteiro e tenho 19 anos, sou novo na área de desenvolvimento de softwares, porém sou empenhado em aprimorar e superar minhas habilidades. 
   
   Atualmente estou estudando na FATEC Zona Sul de São Paulo, no curso de Desenvolvimento de Software Multiplataforma, no 2º Semestre.
   
