@@ -51,15 +51,16 @@
 
 ## 🚀 Meus Projetos
 
-- [🌐 Projeto Website - Affectum](https://github.com/GabrielMeloCavalcantiMont/Projeto-Website---Affectum)
-- [📖 Atividade de Bootstrap - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-Bootstrap-FATEC)
-- [📋 Atividade de Formulários - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-Formulario-FATEC)
-- [💻 Atividade de SQL - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-SQL-FATEC)
-- [🧑‍💻 Atividade de PHP - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-PHP-)
-- [🛜 Atividade de JavaScript - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-JavaScript-FATEC)
-- [💻 Atividade de Table SQL - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-Tables-SQL)
-- [📖 Atividade de Formulário com CSS - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-Formul-rio-com-CSS)
-- [🧑‍💻 Atividade de API em PHP - FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-API-PokeAPI-FATEC)
+- [🌐 Projeto Website | Affectum](https://github.com/GabrielMeloCavalcantiMont/Projeto-Website---Affectum)
+- [📖 Atividade de Bootstrap | FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-Bootstrap-FATEC)
+- [📋 Atividade de Formulários | FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-Formulario-FATEC)
+- [💻 Atividade de SQL | FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-SQL-FATEC)
+- [🧑‍💻 Atividade de PHP | FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-PHP-)
+- [🛜 Atividade de JavaScript | FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-JavaScript-FATEC)
+- [💻 Atividade de Table SQL | FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-Tables-SQL)
+- [📖 Atividade de Formulário com CSS | FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-Formul-rio-com-CSS)
+- [🧑‍💻 Atividade de API em PHP | FATEC](https://github.com/GabrielMeloCavalcantiMont/Atividade-de-API-PokeAPI-FATEC)
+- [🌐 Projeto Assistente de IA para academia | FATEC](https://github.com/caiog-cruz/Assistente-IA)
           
           
           
